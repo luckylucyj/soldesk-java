@@ -1,0 +1,9 @@
+
+test +gfhgfgh
+
+
+. 파일 추가하기			vi c.txt
+
+
+a
+t
