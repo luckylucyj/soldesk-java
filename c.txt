@@ -6,4 +6,7 @@ test +gfhgfgh
 
 
 a
-t
+f
+:
+:wq
+
